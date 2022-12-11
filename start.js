@@ -700,7 +700,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `Hay Kak ${pushname} 👋
 ┣❏ ---- *Lite Mode* ----
 ┣❏ *fy 628xxxxxxx|10|200*
 ┣❏ *fii 628xxxxxxx|10|200*
-┣❏ *IOS 628xxxxxxx|10|200* [*Not Work* *MT*]
+┣❏ ---- *IOS Mode* ----
+┣❏ *ip 628xxxxxxx|10|200* [*Not Work* *MT*]
 ┗━━⊱[FYVVIP.☆]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 *Peringatan !!*
